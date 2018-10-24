@@ -17,6 +17,8 @@ Alarms are currently as follows:
 - alarm03 = weather forecast
 - alarm04 = river level monitoring
 
+Add your personal details in the user_details.csv file - it's pretty self-explanatory.
+
 Updates to follow, at some point, when I have time:
 - trigger an automatic alarm if the river starts to flood
 - weight/bmi/sleep/fat% info if I can pull the data from FitBit's API
